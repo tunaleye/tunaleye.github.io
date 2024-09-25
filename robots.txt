@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tunaleye.github.io/sitemap.tunaleye.gz
+Sitemap: https://tunaleye.github.io/app/sitemap.tunaleye.gz
+Sitemap: https://tunaleye.github.io/assets/sitemap.tunaleye.gz
+Sitemap: https://tunaleye.github.io/css/sitemap.tunaleye.gz
+Sitemap: https://tunaleye.github.io/data/sitemap.tunaleye.gz
+Sitemap: https://tunaleye.github.io/includes/sitemap.tunaleye.gz
+Sitemap: https://tunaleye.github.io/item/sitemap.tunaleye.gz
+Sitemap: https://tunaleye.github.io/src/sitemap.tunaleye.gz
